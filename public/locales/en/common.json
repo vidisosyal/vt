@@ -1,0 +1,6 @@
+{
+  "heroTitle": "{{brandName}} – Smart Solution for Lazy Eye",
+  "heroCTA1": "How It Works",
+  "heroCTA2": "Buy Now",
+  "currency": "Price: {{price, currency}}"
+}
